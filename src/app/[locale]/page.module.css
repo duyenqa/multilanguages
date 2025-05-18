@@ -13,6 +13,7 @@
   display: flex;
   align-self: center;
 }
+
 .description{
   display: flex;
   flex-direction: column;
@@ -21,4 +22,11 @@
   font-size: 1.25rem;
   line-height: 1.5;
   text-align: justify;
+}
+
+@media (max-width: 1000px) {
+  .content{
+    grid-template-columns: 1fr;
+    place-items: center;
+  }
 }
