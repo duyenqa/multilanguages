@@ -21,7 +21,8 @@ export default function DropdownMenu() {
         <span className="text">Choose languages:</span>
         <select onChange={onSelectLanguages}>
           <option value="en">English</option>
-          <option value="vi">Việt Nam</option>
+          <option value="vi">Vietnamese</option>
+          <option value="japan">Japanese</option>
         </select>
       </label>
     </>
