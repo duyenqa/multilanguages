@@ -29,9 +29,7 @@ export default async function LocaleLayout({
                 <DropdownMenu />
               </div>
             </div>
-            <NextIntlClientProvider>
-              {children}
-            </NextIntlClientProvider>
+            <NextIntlClientProvider>{children}</NextIntlClientProvider>
             <footer>
               <p>
                 &copy; Copyright by Ngô Thị Kim Duyên 2025 - {new Date().getFullYear()}
