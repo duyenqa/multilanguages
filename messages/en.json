@@ -2,5 +2,10 @@
   "HomePage": {
     "title": "Harry Potter and the Sorcerer's Stone",
     "summary": "Harry Potter, a young boy who lives with his unkind aunt and uncle, discovers on his eleventh birthday that he is actually a wizard. He receives a letter inviting him to attend Hogwarts School of Witchcraft and Wizardry. At Hogwarts, Harry makes new friends — Ron Weasley and Hermione Granger — and learns about his mysterious past, including how the dark wizard Lord Voldemort killed his parents.Harry discovers that he is famous in the wizarding world for surviving Voldemort’s deadly curse as a baby. Throughout the school year, Harry and his friends uncover a secret about the Sorcerer's Stone, a magical object that grants immortality. They learn that someone is trying to steal it.In the end, Harry bravely faces the dark forces trying to return Voldemort to power and prevents the stone from falling into the wrong hands. The story ends with Harry returning to the Dursleys for the summer, but now with a new sense of identity, friendship, and belonging."
+  },
+  "NavbarLinks": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
   }
 }

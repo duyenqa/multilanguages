@@ -14,6 +14,39 @@ yarn dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Learn More
+- The app has been added multiple language
+
+```bash
+The organization of the folder is as follows:
+src
+--app
+---[locale]
+-----layout.tsx
+-----page.tsx
+-----globals.css
+-----about
+-------page.tsx
+-----contact
+-------page.tsx
+--components
+----Navbar.tsx
+----DropdownMenu.tsx
+--i18n
+middleware.ts
+```
+- The app is only navigation page, it has not multiple language
+
+```bash
+The organization of the folder is as follows:
+src
+--app
+---about
+----page.tsx
+---contact
+----page.tsx
+--components
+```
+
 
 To learn more about Next.js, take a look at the following resources:
 
